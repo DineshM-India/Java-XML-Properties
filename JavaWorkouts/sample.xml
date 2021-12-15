@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<developers>
+  <developer>
+    <id>1</id>
+    <name>Dinesh</name>
+    <language>Java</language>
+  </developer>
+  <developer>
+    <id>2</id>
+    <name>Ravi</name>
+    <language>Java</language>
+  </developer>
+  <developer>
+    <id>3</id>
+    <name>Ganesh</name>
+    <language>COBOL</language>
+  </developer>
+  <developer>
+    <id>4</id>
+    <name>Nirmal</name>
+    <language>Devops</language>
+  </developer>
+</developers>
+

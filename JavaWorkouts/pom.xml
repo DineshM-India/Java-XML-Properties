@@ -1,0 +1,24 @@
+<project xmlns="http://maven.apache.org/POM/4.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 https://maven.apache.org/xsd/maven-4.0.0.xsd">
+  <modelVersion>4.0.0</modelVersion>
+  <groupId>XMLParsing</groupId>
+  <artifactId>XMLParsingSample</artifactId>
+  <version>0.0.1-SNAPSHOT</version>
+  <name>XMLSample</name>
+  <description>xml parsing sample work</description>
+  <dependencies>
+  <!-- https://mvnrepository.com/artifact/javax.xml.parsers/jaxp-api -->
+<dependency>
+    <groupId>javax.xml.parsers</groupId>
+    <artifactId>jaxp-api</artifactId>
+    <version>1.4.5</version>
+</dependency>
+  
+ <!-- https://mvnrepository.com/artifact/jdom/jdom -->
+<dependency>
+    <groupId>jdom</groupId>
+    <artifactId>jdom</artifactId>
+    <version>1.1</version>
+</dependency>
+    
+  </dependencies>
+</project>
